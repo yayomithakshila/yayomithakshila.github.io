@@ -1,5 +1,5 @@
 <a href="https://jekyll-themes.com">
-<img src="https://github.com/yayomithakshila/yayomithakshila.github.io/blob/master/images/11111.jpg" >
+<img src="blob/master/images/11111.jpg" >
 </a>
 
 # Orbit
